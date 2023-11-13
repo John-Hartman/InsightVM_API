@@ -1,5 +1,5 @@
-This branch holds scripts for copying data from one IVM console to another
+This repository holds some helpful scripts for working with the Rapid7 InsightVM API.
 
-These scripts are as-is
+Some scripts are created for copying data from one console to another, setting the scan template on all sites, or changing the schedule for all scheduled scans.
 
-The IVM-Functions and copy_sites scripts are meant to be used together and all other scripts are currently stand alone scripts built to only do their specific purpose. Some of those other scripts functions are essentially built into the copy_sites script. 
+The functions doc is just for interacting with the InsightVM API to cut the clutter out of the main code
